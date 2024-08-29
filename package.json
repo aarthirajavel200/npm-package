@@ -1,0 +1,22 @@
+{
+  "name": "hell0-world",
+  "version": "1.0.0",
+  "description": "simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarthirajavel200/npm-package.git"
+  },
+  "keywords": [
+    "firstnpm"
+  ],
+  "author": "aarthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarthirajavel200/npm-package/issues"
+  },
+  "homepage": "https://github.com/aarthirajavel200/npm-package#readme"
+}
